@@ -1,6 +1,6 @@
 Exercises from 'Cracking the Coding Interview'
 ================================================
-Questions and example algorithms re-written in Ruby with answers.
+Notes and questions with example algorithms re-written in Ruby.
 
 ### Chapters
 
